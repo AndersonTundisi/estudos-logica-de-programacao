@@ -19,6 +19,7 @@ Repositório com exemplos simples e equivalentes de lógica de programação em 
 - 🤖 Kotlin
 - 🐹 Go
 - 🌐 JavaScript
+- 🟫 COBOL
 
 ---
 
